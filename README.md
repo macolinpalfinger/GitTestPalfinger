@@ -1,4 +1,3 @@
 # GitTestPalfinger
 
-
-test
+## Introduction
